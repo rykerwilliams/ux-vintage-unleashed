@@ -1,0 +1,41 @@
+Banned
+9 Ante Cards
+25 Conspiracy Cards
+2 Dexterity Cards
+-Chaos Orb
+-Falling Star
+
+Restricted
+Ancestral Recall
+Black Lotus
+Demonic Consultation
+Demonic Tutor
+Imperial Seal
+Lion’s Eye Diamond
+Mana Crypt
+Mana Vault
+Merchant Scroll
+Mox Emerald
+Mox Jet
+Mox Pearl
+Mox Ruby
+Mox Sapphire
+Mystical Tutor
+Sol Ring
+Time Walk
+Timetwister
+Tolarian Academy
+Vampiric Tutor
+Wheel of Fortune
+
+Rules References
+MAGIC: THE GATHERING® TOURNAMENT RULES, Effective May 18, 2020
+2.1 Match Structure
+A Magic match consists of a series of games that are played until one side has won a set number of games,
+usually two.
+
+Magic Comprehensive Rules, Effective April 17, 2020 
+103.2, "After the decks have been shuffled, the players determine which one of them will choose who takes the first turn. In the first game of a match (including a single-game match), the players may use any mutually agreeable method (flipping a coin, rolling dice, etc.) to do so. In a match of several games, the loser of the previous game chooses who takes the first turn. If the previous game was a draw, the player who made the choice in that game makes the choice in this game."
+
+Rules for UX Match Structure
+UX will use a best of 5 game structure. Games 1/2 are played without sideboarding. Play order will be determined using Comp. Rule 103.2.
